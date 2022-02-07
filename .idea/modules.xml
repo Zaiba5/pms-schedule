@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pms-schedule-service-main/medical-rep-schedule.iml" filepath="$PROJECT_DIR$/pms-schedule-service-main/medical-rep-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pms-schedule-service-main.iml" filepath="$PROJECT_DIR$/.idea/pms-schedule-service-main.iml" />
+    </modules>
+  </component>
+</project>
